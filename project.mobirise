@@ -29,7 +29,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/ranked-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
