@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
@@ -719,13 +719,13 @@ section.form .container {
 #extHeader16-2 P {
   font-family: 'PT Sans Narrow', sans-serif;
   font-size: 46px;
-  color: #00892d;
+  color: #008e2f;
 }
 #extHeader16-2 H3 {
   color: #960000;
 }
 #extHeader16-2 B {
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 #msg-box3-4 .mbr-section-title,
 #msg-box3-4 p {
@@ -756,26 +756,8 @@ section.form .container {
 }
 #msg-box8-a .mbr-section-title {
   font-size: 30px;
+  color: #efefef;
 }
 #extFeatures6-c .card-img {
   background-color: #c0a375 !important;
-}
-#extFeatures5-d .mbr-iconfont-features4 {
-  color: #e6e6e6 !important;
-}
-#extFeatures5-d .wraper {
-  border-color: #e6e6e6 !important;
-}
-#extFeatures4-e .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures4-e .wraper {
-  border-color: undefined !important;
-}
-#extFeatures8-g .feature-title,
-#extFeatures8-g .description {
-  color: #232323;
-}
-#extFeatures8-g .feature-subtitle {
-  color: #8c8c8c;
 }
