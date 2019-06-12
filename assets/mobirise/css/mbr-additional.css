@@ -750,3 +750,32 @@ section.form .container {
 #msg-box4-5 P {
   font-size: 30px;
 }
+#msg-box8-a .mbr-section-title,
+#msg-box8-a p {
+  color: #fff;
+}
+#msg-box8-a .mbr-section-title {
+  font-size: 30px;
+}
+#extFeatures6-c .card-img {
+  background-color: #c0a375 !important;
+}
+#extFeatures5-d .mbr-iconfont-features4 {
+  color: #e6e6e6 !important;
+}
+#extFeatures5-d .wraper {
+  border-color: #e6e6e6 !important;
+}
+#extFeatures4-e .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures4-e .wraper {
+  border-color: undefined !important;
+}
+#extFeatures8-g .feature-title,
+#extFeatures8-g .description {
+  color: #232323;
+}
+#extFeatures8-g .feature-subtitle {
+  color: #8c8c8c;
+}
