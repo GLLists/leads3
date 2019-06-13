@@ -1098,3 +1098,19 @@ section.form .container {
   width: auto;
   max-width: 100%;
 }
+#content5-1a .mbr-section-title,
+#content5-1a p {
+  color: #fff;
+}
+#content5-1a .mbr-section-title {
+  text-align: center;
+  font-size: 30px;
+  color: #ffffff;
+}
+#content5-1a P {
+  text-align: center;
+  font-size: 30px;
+}
+#content5-1a DIV {
+  color: #000000;
+}
