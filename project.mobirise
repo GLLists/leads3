@@ -11,7 +11,7 @@
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#af0000",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -34,7 +34,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 23,
+    "uniqCompNum": 31,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
@@ -645,6 +645,50 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "30px",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            "DIV": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/og-sute-sad-puppy-pug-yjwz-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.8"
+          },
+          "title": "Are you a SAD PUPPPY because you want to be part of our PROVEN system, but the ONLY thing holding you back is the money to get started?",
+          "caption": "<p><b>IF YOU'RE IN A MONEY CRUNCH, YOU CAN BREAK FREE!&nbsp;</b><b>Listen to the audio message.&nbsp;</b><b>Then, call me to discuss your situation.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-n"
+        },
+        {
           "alias": "popup-builder",
           "_isSecondary": true,
           "typeCompatible": "!isAMP",
@@ -941,6 +985,45 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/og-sute-sad-puppy-pug-yjwz-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Are you a SAD PUPPPY because you want to be part of our PROVEN system, but the ONLY thing holding you back is the money to get started?\n",
+          "text": "<br>IF YOU'RE IN A MONEY CRUNCH, YOU CAN BREAK FREE!<br><br><span style=\"font-style: normal;\">Listen to the audio message. Then, call me to discuss your situation.</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-o",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
