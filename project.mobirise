@@ -33,7 +33,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 9,
+    "uniqCompNum": 13,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
@@ -481,10 +481,10 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/money-dollar-bills-benjamin-franklin-1920x1080-wallpaper-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/thumb-1920-369573-1920x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -494,7 +494,7 @@
             },
             "overlay": true,
             "overlayColor": "#2e2e2e",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.5"
           },
           "title": "<i>\"It doesn’t have to be that way\"</i>",
           "caption": "<p><b>In life we are often faced with some difficult choices. How we make those life decisions shapes our destiny and either allows us to grow and prosper, or unfortunately stay where we are, or even worse sink deeper down into a place we don’t really want to be, instead of moving up to success. And when money is involved, it sometimes makes it even tougher to decide.</b></p>",
@@ -503,6 +503,60 @@
           ],
           "_name": "content5",
           "_anchor": "content5-8"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "imageSize": "100",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thumb-1920-369573-1920x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.3"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/montage-1920x153.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Full-screen intro with image at the bottom. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-info\">DOWNLOAD FOR MAC</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader6",
+          "_anchor": "extHeader6-c"
         }
       ]
     }
