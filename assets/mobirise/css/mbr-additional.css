@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
@@ -722,13 +722,14 @@ section.form .container {
 #extHeader16-2 P {
   font-family: 'PT Sans Narrow', sans-serif;
   font-size: 46px;
-  color: #008e2f;
+  color: #000000;
 }
 #extHeader16-2 H3 {
   color: #960000;
 }
 #extHeader16-2 B {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
 }
 #msg-box3-4 .mbr-section-title,
 #msg-box3-4 p {
@@ -806,6 +807,17 @@ section.form .container {
 }
 #content5-n DIV {
   color: #000000;
+}
+#msg-box4-z DIV {
+  text-align: left;
+}
+#msg-box4-z H3 {
+  text-align: left;
+  font-size: 24px;
+  color: #b90300;
+}
+#msg-box4-z P {
+  font-size: 18px;
 }
 .cid-rtfcOebJmW.popup-builder {
   background-color: #ffffff;
@@ -1093,4 +1105,26 @@ section.form .container {
 #header1-o .mbr-section-lead {
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
+}
+#msg-box4-w DIV {
+  text-align: left;
+}
+#msg-box4-w H3 {
+  text-align: left;
+  font-size: 30px;
+  color: #b90300;
+}
+#msg-box4-w P {
+  font-size: 22px;
+}
+#msg-box4-y DIV {
+  text-align: left;
+}
+#msg-box4-y H3 {
+  text-align: left;
+  font-size: 24px;
+  color: #b90300;
+}
+#msg-box4-y P {
+  font-size: 22px;
 }
