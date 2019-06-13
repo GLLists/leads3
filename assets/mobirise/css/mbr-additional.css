@@ -1,7 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -1105,7 +1108,7 @@ section.form .container {
   font-size: 30px;
 }
 #content5-1d DIV {
-  color: #000000;
+  color: #af0000;
 }
 #content5-1c .mbr-section-title,
 #content5-1c p {
@@ -1121,5 +1124,48 @@ section.form .container {
   font-size: 30px;
 }
 #content5-1c DIV {
-  color: #fac51c;
+  color: #af0000;
+}
+#msg-box3-1l .mbr-section-title,
+#msg-box3-1l p {
+  color: #000;
+}
+#msg-box3-1l .mbr-section-title {
+  color: #222222;
+  font-size: 22px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box3-1l .lead {
+  color: #af0000;
+}
+#msg-box3-1l .lead P {
+  font-size: 30px;
+}
+#msg-box3-1m .mbr-section-title,
+#msg-box3-1m p {
+  color: #000;
+}
+#msg-box3-1m .mbr-section-title {
+  color: #222222;
+  font-size: 22px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box3-1m .lead {
+  color: #af0000;
+}
+#msg-box3-1m .lead P {
+  font-size: 30px;
+}
+#msg-box4-1n DIV {
+  text-align: left;
+}
+#msg-box4-1n H3 {
+  text-align: left;
+  font-size: 30px;
+  color: #b90300;
+}
+#msg-box4-1n P {
+  font-size: 22px;
 }
