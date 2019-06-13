@@ -761,3 +761,19 @@ section.form .container {
 #extFeatures6-c .card-img {
   background-color: #c0a375 !important;
 }
+#content5-8 .mbr-section-title,
+#content5-8 p {
+  color: #fff;
+}
+#content5-8 .mbr-section-title {
+  text-align: center;
+  font-size: 24px;
+  color: #fac51c;
+}
+#content5-8 P {
+  text-align: center;
+  font-size: 30px;
+}
+#content5-8 DIV {
+  color: #f7da64;
+}

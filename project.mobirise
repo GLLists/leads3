@@ -23,8 +23,7 @@
       "additionalSetColors": [
         "#960000",
         "#af0000",
-        "#00892d",
-        "#008e2f"
+        "#00892d"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -34,7 +33,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 18,
+    "uniqCompNum": 9,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
@@ -399,7 +398,7 @@
               "family": "et-line"
             }
           },
-          "title1": "ABLE",
+          "title1": "ONGOING SUCCESS",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "EITHER YOU DON’T THINK YOU CAN DO THIS, OR YOU DON’T BELIEVE YOU HAVE THE MONEY TO GET STARTED.",
           "title2": "THE MONEY",
@@ -460,6 +459,50 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "24px",
+              "color": "#fac51c"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            "DIV": {
+              "color": "#f7da64"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/money-dollar-bills-benjamin-franklin-1920x1080-wallpaper-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.8"
+          },
+          "title": "<i>\"It doesn’t have to be that way\"</i>",
+          "caption": "<p><b>In life we are often faced with some difficult choices. How we make those life decisions shapes our destiny and either allows us to grow and prosper, or unfortunately stay where we are, or even worse sink deeper down into a place we don’t really want to be, instead of moving up to success. And when money is involved, it sometimes makes it even tougher to decide.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-8"
         }
       ]
     }
