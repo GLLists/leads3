@@ -1,11 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
 
 
 
@@ -718,17 +714,11 @@ section.form .container {
 .theme-border {
   border: 1px solid #c0a375;
 }
-#extHeader16-2 P {
-  font-family: 'PT Sans Narrow', sans-serif;
-  font-size: 46px;
+#header5-1b .mbr-section-title {
+  color: #af0000;
+}
+#header5-1b .mbr-section-lead {
   color: #000000;
-}
-#extHeader16-2 H3 {
-  color: #960000;
-}
-#extHeader16-2 B {
-  font-family: 'Oswald', sans-serif;
-  font-size: 36px;
 }
 #msg-box3-4 .mbr-section-title,
 #msg-box3-4 p {
@@ -1104,7 +1094,7 @@ section.form .container {
 }
 #content5-1a .mbr-section-title {
   text-align: center;
-  font-size: 30px;
+  font-size: 46px;
   color: #ffffff;
 }
 #content5-1a P {
