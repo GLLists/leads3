@@ -529,10 +529,12 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-exttabs2.jpg"
+              "src": "@PROJECT_PATH@/assets/images/momo-1400x788.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
-              "active": false,
               "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
