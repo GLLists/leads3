@@ -37,7 +37,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 48,
+    "uniqCompNum": 50,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
@@ -82,7 +82,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "\n<div><br></div><div>\n</div><div>\n</div><div>THE DECISION YOU MAKE RIGHT NOW IS LIFE CHANGING.</div>",
-          "text": "<b>You Need To Review This Page ONLY If (For Some Strange Reason) You Are Undecided About Getting Started With Our PROVEN System. WILL YOU WALK PAST A FORTUNE?</b>",
+          "text": "<b>You Need To Review This Page ONLY If </b>(For Some Strange Reason)<b> You Are Undecided About Getting Started With Our PROVEN System. WILL YOU WALK PAST A FORTUNE?</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
           "_tags": [
             "Theme"
@@ -706,7 +706,7 @@
           ],
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box4",
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 10px; padding-bottom: 0px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x10003.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 20px; color: rgb(9, 115, 215);\" code-editable-id=\"33\">Listen to the audio message. Then, call me to discuss your situation.</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/crunch-14M-18S.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/crunch-14M-18S.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 10px; padding-bottom: 0px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x10000.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 20px; color: rgb(9, 115, 215);\" code-editable-id=\"33\">Listen to the audio message. Then, call me to discuss your situation.</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/crunch-14M-18S.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/crunch-14M-18S.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_customTemplate": true,
           "_anchor": "msg-box4-v",
           "_PHPplaceholders": [],
@@ -1076,7 +1076,7 @@
             },
             ".mbr-section-title": {
               "text-align": "center",
-              "font-size": "46px",
+              "font-size": "60px",
               "color": "#ffffff"
             },
             "P": {
@@ -1103,15 +1103,15 @@
             },
             "overlay": true,
             "overlayColor": "#2e2e2e",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.5"
           },
-          "title": "Why Do People Get Started<br>With Our PROVEN System?\n",
+          "title": "Why Do People Get Started\r With Our PROVEN System?",
           "caption": "<p><i>IF YOU'RE IN A MONEY CRUNCH, YOU CAN BREAK FREE!</i></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-1a"
+          "_anchor": "content5-1d"
         },
         {
           "_inherit": "features3",
@@ -1121,7 +1121,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "columns": "6",
             "bgImageRadio": false,
@@ -1248,7 +1248,7 @@
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1364,6 +1364,50 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features6",
           "_anchor": "features6-17"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "30px",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            "DIV": {
+              "color": "#fac51c"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/coupledriving-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.4"
+          },
+          "title": "The reason the windshield is BIGGER than the rear view mirror is because... it's MORE important where you're going than where you've been.",
+          "caption": "<p><i>YOU CAN ONLY CHANGE YOUR FUTURE.\r</i></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1c"
         }
       ]
     }
