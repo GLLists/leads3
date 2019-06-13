@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -737,7 +739,8 @@ section.form .container {
   text-align: center;
 }
 #msg-box3-4 .mbr-section-title SPAN {
-  font-size: 18px;
+  font-size: 30px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #msg-box4-5 DIV {
   text-align: left;
@@ -760,6 +763,32 @@ section.form .container {
 }
 #extFeatures6-c .card-img {
   background-color: #c0a375 !important;
+}
+#content5-8 .mbr-section-title,
+#content5-8 p {
+  color: #fff;
+}
+#content5-8 .mbr-section-title {
+  text-align: center;
+  font-size: 24px;
+  color: #fac51c;
+}
+#content5-8 P {
+  text-align: center;
+  font-size: 30px;
+}
+#content5-8 DIV {
+  color: #f7da64;
+}
+#extTabs2-d B {
+  font-size: 20px;
+}
+#extMsg-box1-k H3 {
+  color: #000000;
+  font-size: 30px;
+}
+#extMsg-box1-k P {
+  color: #28324e;
 }
 .cid-rtfcOebJmW.popup-builder {
   background-color: #ffffff;
@@ -1040,30 +1069,4 @@ section.form .container {
   flex: 0 0 auto;
   width: auto;
   max-width: 100%;
-}
-#content5-8 .mbr-section-title,
-#content5-8 p {
-  color: #fff;
-}
-#content5-8 .mbr-section-title {
-  text-align: center;
-  font-size: 24px;
-  color: #fac51c;
-}
-#content5-8 P {
-  text-align: center;
-  font-size: 30px;
-}
-#content5-8 DIV {
-  color: #f7da64;
-}
-#extTabs2-d B {
-  font-size: 20px;
-}
-#extMsg-box1-k H3 {
-  color: #000000;
-  font-size: 30px;
-}
-#extMsg-box1-k P {
-  color: #28324e;
 }
