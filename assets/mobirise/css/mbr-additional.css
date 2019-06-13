@@ -10,7 +10,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -1098,22 +1097,4 @@ section.form .container {
   flex: 0 0 auto;
   width: auto;
   max-width: 100%;
-}
-#header1-o .mbr-section-title {
-  font-size: 36px;
-}
-#header1-o .mbr-section-lead {
-  font-family: 'Montserrat', sans-serif;
-  color: #ffffff;
-}
-#msg-box4-w DIV {
-  text-align: left;
-}
-#msg-box4-w H3 {
-  text-align: left;
-  font-size: 30px;
-  color: #b90300;
-}
-#msg-box4-w P {
-  font-size: 22px;
 }
