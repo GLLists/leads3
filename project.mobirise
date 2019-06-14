@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#668103",
         "#728e0a",
         "#960000",
         "#af0000",
         "#00892d",
         "#222222",
-        "#0973d7",
-        "#f2f2f2"
+        "#0973d7"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -1301,7 +1301,7 @@
           ],
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box4",
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 20px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x10000.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 36px; color: rgb(175, 0, 0);\" code-editable-id=\"27\">This really can be a changing day in your life. Listen to this message and discover why...\n</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/actiontaker-11m-31s.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/actiontaker-11m-31s.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 20px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x10001.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 36px; color: rgb(175, 0, 0);\" code-editable-id=\"27\">This really can be a changing day in your life. Listen to this message and discover why...\n</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/actiontaker-11m-31s.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/actiontaker-11m-31s.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_customTemplate": true,
           "_anchor": "msg-box4-1r",
           "_PHPplaceholders": [],
@@ -1714,16 +1714,16 @@
           "title": "MOBIRISE FEATURES",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "title1": "Strong Sales Funnel\n",
-          "subtitle1": "$1,500 A DAY = $45,000 A MONTH\n<br>$3,000 A DAY = $90,000 A MONTH",
+          "subtitle1": "<b>$1,500 A DAY = $45,000 A MONTH\n<br>$3,000 A DAY = $90,000 A MONTH</b>",
           "caption1": "Our sales funnel has been assembled using time-tested, split-tested elements that produce results.",
           "title2": "High Conversion Website\n",
-          "subtitle2": "$2,000 A DAY = $60,000 A MONTH\n<br>$4,500 A DAY = $135,000 A MONTH",
+          "subtitle2": "<b>$2,000 A DAY = $60,000 A MONTH\n<br>$4,500 A DAY = $135,000 A MONTH</b>",
           "caption2": "Our high conversion website includes the latest in cutting edge design and mobile responsiveness.<br>",
           "title3": "Email Campaign\n",
-          "subtitle3": "$2,500 A DAY = $75,000 A MONTH\r<br>$6,000 A DAY = $180,000 A MONTH",
+          "subtitle3": "<b>$2,500 A DAY = $75,000 A MONTH\n<br>$6,000 A DAY = $180,000 A MONTH</b>",
           "caption3": "Our email campaigns engage the reader and works for you like a non-stop selling machine!&nbsp;<br>",
           "title4": "Unlimited Cash Flow\n",
-          "subtitle4": "$3,000 A DAY = $90,000 A MONTH\r<br>$7,500 A DAY = $225,000 A MONTH",
+          "subtitle4": "<b>$3,000 A DAY = $90,000 A MONTH\n<br>$7,500 A DAY = $225,000 A MONTH</b>",
           "caption4": "Our system levels the playing field so you can rake in $10,000+ weekly and do it consistently!&nbsp;<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -2003,7 +2003,7 @@
           "_anchor": "extFeatures7-1s",
           "_styles": {
             "H5": {
-              "color": "#728e0a"
+              "color": "#668103"
             }
           }
         }
