@@ -1172,3 +1172,11 @@ section.form .container {
 #extFeatures7-1s H5 {
   color: #668103;
 }
+#extMsg-box3-1v SPAN {
+  font-size: 46px;
+  color: #232323;
+  text-align: right;
+}
+#extMsg-box3-1v P {
+  color: #667403;
+}
