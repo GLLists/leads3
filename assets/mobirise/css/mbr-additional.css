@@ -1172,6 +1172,22 @@ section.form .container {
 #extFeatures7-1s H5 {
   color: #668103;
 }
+#content5-1y .mbr-section-title,
+#content5-1y p {
+  color: #fff;
+}
+#content5-1y .mbr-section-title {
+  text-align: center;
+  font-size: 30px;
+  color: #ffffff;
+}
+#content5-1y P {
+  text-align: center;
+  font-size: 30px;
+}
+#content5-1y DIV {
+  color: #000000;
+}
 #extMsg-box3-1v SPAN {
   font-size: 46px;
   color: #232323;
