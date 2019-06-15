@@ -755,6 +755,13 @@ section.form .container {
   font-size: 30px;
   color: #efefef;
 }
+#msg-box8-2g .mbr-section-title,
+#msg-box8-2g p {
+  color: #fff;
+}
+#msg-box8-2g .mbr-section-title {
+  font-size: 30px;
+}
 #extFeatures6-c .card-img {
   background-color: #3d8eb9 !important;
 }
