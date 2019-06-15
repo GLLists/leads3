@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -756,13 +758,6 @@ section.form .container {
   font-size: 30px;
   color: #efefef;
 }
-#msg-box8-2g .mbr-section-title,
-#msg-box8-2g p {
-  color: #fff;
-}
-#msg-box8-2g .mbr-section-title {
-  font-size: 30px;
-}
 #extFeatures6-c .card-img {
   background-color: #3d8eb9 !important;
 }
@@ -896,6 +891,9 @@ section.form .container {
 }
 #msg-box3-1p .lead P {
   font-size: 30px;
+}
+#footer1-1o P {
+  font-family: 'Droid Sans', sans-serif;
 }
 #extFeatures7-1s H5 {
   color: #668103;
