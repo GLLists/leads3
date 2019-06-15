@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -1209,4 +1210,12 @@ section.form .container {
 #extAccordion2-2e H1 {
   font-size: 36px;
   color: #2e2e2e;
+}
+#msg-box4-2h P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 46px;
+  color: #553982;
+}
+#msg-box4-2h H3 {
+  color: #b8312f;
 }
