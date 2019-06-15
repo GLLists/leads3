@@ -37,7 +37,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "",
-    "uniqCompNum": 71,
+    "uniqCompNum": 79,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -2030,24 +2030,24 @@
           },
           "_params": {
             "showTitle": true,
-            "showCaption": false,
+            "showCaption": true,
             "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/og-sute-sad-puppy-pug-yjwz-1920x1280.jpg",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#2e2e2e",
             "overlayOpacity": "0.8"
           },
-          "title": "Most brokers charge $300 to $500 for ONE genealogy list. CLEARLY YOU CAN SEE I OFFER FAR BETTER VALUE",
-          "caption": "<p><i>IF YOU'RE IN A MONEY CRUNCH, YOU CAN BREAK FREE!</i></p>",
+          "title": "Most brokers charge $300 to $500 for ONE genealogy list",
+          "caption": "<p><b>CLEARLY YOU CAN SEE I OFFER FAR BETTER VALUE</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -2294,6 +2294,58 @@
           ],
           "_name": "features3",
           "_anchor": "features3-1w"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "58",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/are-ready-to-make-your-self-rich2-1400x788.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-26"
         }
       ]
     }
