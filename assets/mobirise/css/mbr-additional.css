@@ -2,8 +2,10 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -1335,5 +1337,6 @@ section.form .container {
   max-width: 100%;
 }
 .cid-rtu4c04nr0 .modal-title B {
-  font-size: 20px;
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
 }
